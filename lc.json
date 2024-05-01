@@ -316,6 +316,21 @@
         "Dir": ""
       }
     ],
+    "1979440_Name": "SAND LAND",
+    "1979440": [
+      {
+        "Desc": "DirectX 11",
+        "Exe": "\SANDLAND\Binaries\Win64\SANDLAND-Win64-Shipping.exe",
+        "Args": "-d3d11",
+        "Dir": ""
+      },
+      {
+        "Desc": "DirectX 12",
+        "Exe": "\SANDLAND\Binaries\Win64\SANDLAND-Win64-Shipping.exe",
+        "Args": "-d3d12",
+        "Dir": ""
+      }
+    ],    
     "526870_Name": "Satisfactory",
       "526870": [
         {
